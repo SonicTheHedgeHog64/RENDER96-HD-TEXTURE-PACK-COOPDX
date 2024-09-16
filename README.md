@@ -66,6 +66,12 @@ go support him if you can
 ------------------------
 https://github.com/pokeheadroom/RESRGAN-16xre-upscale-HD-texture-pack/tree/n64-resrgan-faithful
 
+
+SM64COOPDX Support contributors:
+------------------------
+[ThePerfectMario64](https://x.com/TPM64R) SM64COOPDX Recolor Support Mario Only RN :(, Coop Texture Folder
+[CRClassics](https://www.tiktok.com/@crclassicsoriginal) Testing And Distribution Of The Modded Texture Pack
+
 RESRGAN originally based on the work done by the cleaner aesthetics team, circa May 2020. [Check them out!](https://github.com/CrashCrod/Cleaner-Aesthetics)
 ![](screenshots/sm64.us.f3dex2e%202020-07-04%2000-52-06.jpg)
 ![](screenshots/sm64.us.f3dex2e%202020-07-04%2000-52-23.jpg)
